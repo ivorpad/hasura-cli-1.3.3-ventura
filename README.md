@@ -11,7 +11,7 @@ The binary was built from the source code of Hasura's GraphQL Engine repository.
 
 ## Installation
 
-yarn install ivorpad/hasura-cliv1
+yarn install hasura-cli-ventura
 
 ### Usage
 
