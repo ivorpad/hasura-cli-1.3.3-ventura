@@ -1,0 +1,15 @@
+{
+  "name": "hasura-cli-ventura",
+  "version": "1.3.3",
+  "description": "This binary of the Hasura CLI has been specifically built to work with Hasura version 1.3.3 on macOS Ventura.",
+  "bin": {
+    "hasura-cli-ventura": "./bin/hasura"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ivor Padilla",
+  "license": "ISC"
+}
+
